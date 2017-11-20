@@ -1,4 +1,4 @@
 TestData/
 TrainData/
 *.7z
-
+.ipynb_checkpoints/
