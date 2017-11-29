@@ -1,6 +1,6 @@
 # Iceberg or Ship? Classifying the content of radar images using deep learning.
-
-This repo contains my submission to the Statoil/C-Core Iceberg Classifier Challenge from Kaggle.  An overview of the project and its exact details and requirements can be found [here](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge). The main goal is to create an algorithm capable of differentiating between icebergs and ships using only images obtained from satellite radar data. My final submission obtained an accuracy of about 91% on the test data and consistedon a model that used a Convolutional Neural Network as its primary algorithm. 
+![Alt text](/Images/rgbShips.png "RGB representation of radar data containing ships.")
+This repo contains my submission to the Statoil/C-Core Iceberg Classifier Challenge from Kaggle.  An overview of the project and its exact details and requirements can be found [here](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge). The main goal is to create an algorithm capable of differentiating between icebergs and ships using only images obtained from satellite radar data. My final submission obtained an accuracy of about 91% on the test data and consisted on a model that used a Convolutional Neural Network as its primary algorithm. 
 
 ## Running this project on your machine
 
