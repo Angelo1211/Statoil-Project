@@ -20,7 +20,7 @@ Many packages listed above require others to work so I recommend using a virtual
 
 ## Final submission & Detail Explanation
 
-The script used for the final submission was annotated in a  jupyter notebook that you can take a look at [here](http://nbviewer.jupyter.org/github/Angelo1211/Statoil-Project/blob/master/Scripts/Final/Statoil%20Iceberg%20Challenge%20Submission.ipynb). It includes a much more detailed explanation of each component of the algorithm and follows the general steps that I followed when building this model.
+The script used for the final submission was annotated in a  jupyter notebook that you can take a look at [here](https://github.com/Angelo1211/Statoil-Project/blob/master/Scripts/Final/Statoil%20Iceberg%20Challenge%20Submission.ipynb). It includes a much more detailed explanation of each component of the algorithm and follows the general steps that I followed when building this model.
 
 Other scripts can be found in the scripts folder under WIP but most of them were just tests of a specific concept and are not guaranteed to work at all, but can still be interesting to look at. 
 
